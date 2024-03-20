@@ -1,0 +1,19 @@
+2024/03/19-21:30:01.484 c98 Reusing MANIFEST C:\Users\kelve\OneDrive\Área de Trabalho\WPPCONECT\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/19-21:30:01.485 c98 Recovering log #256
+2024/03/19-21:30:01.514 c98 Reusing old log C:\Users\kelve\OneDrive\Área de Trabalho\WPPCONECT\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000256.log 
+2024/03/19-21:30:12.390 15b0 Level-0 table #264: started
+2024/03/19-21:30:12.411 15b0 Level-0 table #264: 393634 bytes OK
+2024/03/19-21:30:12.413 15b0 Delete type=0 #256
+2024/03/19-21:30:12.414 c98 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/03/19-21:30:14.763 15b0 Compacting 1@1 + 4@2 files
+2024/03/19-21:30:14.917 15b0 Generated table #265@1: 47647 keys, 2309882 bytes
+2024/03/19-21:30:15.028 15b0 Generated table #266@1: 10296 keys, 2172122 bytes
+2024/03/19-21:30:15.190 15b0 Generated table #267@1: 34501 keys, 2202549 bytes
+2024/03/19-21:30:15.355 15b0 Generated table #268@1: 101703 keys, 2248397 bytes
+2024/03/19-21:30:15.355 15b0 Compacted 1@1 + 4@2 files => 8932950 bytes
+2024/03/19-21:30:15.356 15b0 compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/03/19-21:30:15.357 15b0 Delete type=2 #258
+2024/03/19-21:30:15.357 15b0 Delete type=2 #259
+2024/03/19-21:30:15.357 15b0 Delete type=2 #260
+2024/03/19-21:30:15.357 15b0 Delete type=2 #261
+2024/03/19-21:30:15.357 15b0 Delete type=2 #264
